@@ -1,7 +1,8 @@
-
 # Ex02-OS-Linux-Process API - fork(), wait(), exec()
-Operating systems Lab exercise
 
+### Name : S.Sanjay Balaji
+### Reg. No : 212223240149
+### Date : 31.8.24
 
 # AIM:
 To write C Program that uses Linux Process API - fork(), wait(), exec()
